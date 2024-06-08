@@ -5,9 +5,9 @@ rkt:1,
 hsr:0,
 atp:false
 },
-StAd0:{
-from:1,
-to:1496,
+StAd5:{
+from:16294,
+to:17789,
 src:'ar/133400.mp3',
 l:1,
 lf:540,
@@ -1213,7 +1213,7 @@ efva:[]
 }
 ,
 eflh:[11233],
-oca:'{"scripts":[{"then":[["cp.goToSlide(11514,);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(133658,85076);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -1561,7 +1561,7 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-11514:{
+133658:{
 ts:''
 }
 
@@ -1578,9 +1578,9 @@ uid:388,
 dn:'Slide388',
 visible:'1'
 },
-StAd1:{
-from:1498,
-to:3095,
+StAd6:{
+from:16294,
+to:17891,
 src:'ar/133406.mp3',
 l:1,
 lf:840,
@@ -10792,11 +10792,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-85810:{
+85901:{
 ts:''
 }
 ,
-85901:{
+85810:{
 ts:''
 }
 ,
@@ -10821,9 +10821,9 @@ uid:85076,
 dn:'Slide85076',
 visible:'1'
 },
-StAd2:{
-from:3097,
-to:5375,
+StAd7:{
+from:16294,
+to:18572,
 src:'ar/133409.mp3',
 l:1,
 lf:2280,
@@ -19771,11 +19771,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-65703:{
+111741:{
 ts:''
 }
 ,
-65609:{
+119599:{
 ts:''
 }
 ,
@@ -19783,11 +19783,11 @@ ts:''
 ts:''
 }
 ,
-111741:{
+65609:{
 ts:''
 }
 ,
-119599:{
+65703:{
 ts:''
 }
 
@@ -26731,11 +26731,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-96388:{
+96369:{
 ts:''
 }
 ,
-96369:{
+96388:{
 ts:''
 }
 
@@ -26752,9 +26752,9 @@ uid:67729,
 dn:'Slide67729',
 visible:'1'
 },
-StAd3:{
-from:8575,
-to:12053,
+StAd8:{
+from:16294,
+to:19772,
 src:'ar/133412.mp3',
 l:1,
 lf:3480,
@@ -30251,11 +30251,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-133651:{
+96506:{
 ts:''
 }
 ,
-96506:{
+133651:{
 ts:''
 }
 
@@ -30272,9 +30272,9 @@ uid:57815,
 dn:'Slide57815',
 visible:'1'
 },
-StAd4:{
-from:12055,
-to:14693,
+StAd9:{
+from:16294,
+to:18932,
 src:'ar/133415.mp3',
 l:1,
 lf:2640,
@@ -39175,6 +39175,14 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
+133313:{
+ts:''
+}
+,
+133337:{
+ts:''
+}
+,
 133361:{
 ts:''
 }
@@ -39183,23 +39191,15 @@ ts:''
 ts:''
 }
 ,
-133337:{
-ts:''
-}
-,
-133313:{
-ts:''
-}
-,
-133385:{
-ts:''
-}
-,
 96579:{
 ts:''
 }
 ,
 111828:{
+ts:''
+}
+,
+133385:{
 ts:''
 }
 
@@ -42597,11 +42597,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-111958:{
+96716:{
 ts:''
 }
 ,
-96716:{
+111958:{
 ts:''
 }
 
@@ -43047,7 +43047,7 @@ isResponsiveSim:0,
 currentFrame:1,
 useWidgetVersion7:false,
 isPublishedFromLacuna:false,
-slideAudios:'StAd0,StAd1,StAd2,StAd3,StAd4',
+slideAudios:'StAd5,StAd6,StAd7,StAd8,StAd9',
 vestr:0,
 vim:0,
 slides:'Slide388,Slide85076,Slide58700,Slide57752,Slide67729,Slide57815,Slide59532,Slide68280',
@@ -43420,6 +43420,13 @@ resources:['ar/133412.mp3']
 slideID:6,
 ResourceList:{
 resources:['ar/133415.mp3']
+}
+
+}
+,{
+slideID:8,
+ResourceList:{
+resources:['ar/133400.mp3']
 }
 
 }
